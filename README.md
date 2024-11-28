@@ -1,1 +1,3 @@
 # SOPA
+# Author
+João Itinca
