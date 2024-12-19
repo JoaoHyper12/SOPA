@@ -1,5 +1,29 @@
 body{
-    background-image: url(images.png);
-    position: absolute;
+    background-image: url(images-removebg-preview.png);
     background-repeat: no-repeat;
+    z-index: -10;
+    background-color: rgb(255, 255, 255);
+    width: 80%;
+    height: 100vh;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    padding-top: 1px;
+    margin-bottom: 0;
+    box-sizing: border-box;
+
+}
+
+h1{
+    padding: 50px;
+    /*position: absolute;*/
+    left: 200px;
+    bottom: 135px;
+    background-color:white;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+html{
+    background-color: rgba(0, 0, 0, 0.862);
 }
